@@ -1,5 +1,8 @@
 ### Hi there 👋
+![alt text](https://github.com/amancern3/amancern3/blob/main/readmejpeg.jfif)
 
+### Hi! My name is Aman and I am an undergraduate senior at the University of California, Davis.
+### My major is in Computer Science, and I'm well versed in full-stack dev.
 <!--
 **amancern3/amancern3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
