@@ -1,5 +1,5 @@
-### Hi there 👋
-![alt text](https://github.com/amancern3/amancern3/blob/main/readmejpeg2.jpg)
+### 👯 I’m looking to collaborate on projects to do with Rust, C, C++ and/or Py3
+![alt text](https://github.com/amancern3/amancern3/blob/main/readmejpg.jpg)
 
 ### Hi! My name is Aman and I am an undergraduate senior at the University of California, Davis.
 ### My major is in Computer Science, and I'm well versed in full-stack dev.
