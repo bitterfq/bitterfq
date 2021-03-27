@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://github.com/amancern3/amancern3/blob/main/readmejpeg.jfif)
+![alt text](https://github.com/amancern3/amancern3/blob/main/readmejpeg.jpg)
 
 ### Hi! My name is Aman and I am an undergraduate senior at the University of California, Davis.
 ### My major is in Computer Science, and I'm well versed in full-stack dev.
