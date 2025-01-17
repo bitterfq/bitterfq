@@ -1,7 +1,5 @@
 
 ![alt text](https://github.com/amancern3/amancern3/blob/main/readmejpg.jpg)
-
-### FOR HOW CAN YOU LIVE AND HAVE NO STORY TO TELL
 <!--
 **amancern3/amancern3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
